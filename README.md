@@ -1,5 +1,20 @@
 ## Atzael Ben Campos
 
+Education --
+
+#### Masters of Science in Data Science at Drexel University - Anticipated Graduation - March 2020
+
+Drexel University has taught me a wealth of knowledge that I plan to use in a tactical manner for engagement of data.
+
+Relevant Courses:
+
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/atzbencam/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
