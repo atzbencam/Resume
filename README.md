@@ -1,5 +1,3 @@
-## Atzael Ben Campos
-
 
 ### Education
 
