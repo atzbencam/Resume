@@ -54,23 +54,23 @@ There are several projects described below that I have worked on individually an
 Feel free to analyze and interpret my projects and conclusions. Also if you have any descriptive thoughts about what I did within my code look through my readme's attached to respective projects.
 
 
-_eEbay webscraping for user (using Python)_ 
+[_eEbay webscraping for user (using Python)]
 
 
 
-_Twitter Sentiment Analysis of recent tragic events (using Python)_
+[_Twitter Sentiment Analysis of recent tragic events (using Python)_]
 
 
 
-_Nationwide Grade Fluctuation due to Revenue Increases (using Tableau)_
+[_Nationwide Grade Fluctuation due to Revenue Increases (using Tableau)_]
 
 
 
-_Airbnb Sentiment Analysis along with Machine Learning Models (using Python)_
+[_Airbnb Sentiment Analysis along with Machine Learning Models (using Python)_]
 
 
 
-_Movie Ratings and Budget Fluctuations (using R)_
+[_Movie Ratings and Budget Fluctuations (using R)_]
 
 
 
