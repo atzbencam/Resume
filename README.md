@@ -66,7 +66,7 @@ Feel free to analyze and interpret my projects and conclusions. Also if you have
 
 
 
-[_Airbnb Sentiment Analysis along with Machine Learning Models (using Python)_]
+[_Airbnb Sentiment Analysis along with Machine Learning Models (using Python)_](https://github.com/atzbencam/Projects/blob/master/airbnb_proj_git.pdf)
 
 
 
