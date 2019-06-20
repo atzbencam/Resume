@@ -14,13 +14,13 @@ As a future Data Scientist, I enjoy working with data that can be conveyed in di
 
 ##### Relevant Courses:
 
-Programming Foundations,
-Data Mining,
-Database Management Systems,
-Healthcare Informatics,
-Acquisition and Preprocessing,
-Analysis and Interpretation,
-Information Visualization,
+- Programming Foundations
+- Data Mining
+- Database Management Systems
+- Healthcare Informatics
+- Acquisition and Preprocessing
+- Analysis and Interpretation
+- Information Visualization
 
 
 #### Bachelors of Business Administration in Management Information Systems and Data Analytics at Texas A&M International University
@@ -33,13 +33,13 @@ As an MIS major I am the bridge of IT technology know-how with business minded a
 
 ##### Relevant Courses in Undergrad:
 
-Business Data Visualization,
-Database Design Implementation,
-Data Mining and Business Intelligence,
-Introduction to Programming,
-Information Systems Analysis,
-Management Information Systems,
-Business Statistics with Computer Applications,
+- Business Data Visualization
+- Database Design Implementation
+- Data Mining and Business Intelligence
+- Introduction to Programming
+- Information Systems Analysis
+- Management Information Systems
+- Business Statistics with Computer Applications
 
 
 ##### Skills 
