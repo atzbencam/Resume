@@ -54,24 +54,24 @@ There are several projects described below that I have worked on individually an
 Feel free to analyze and interpret my projects and conclusions.
 
 
-[_eEbay Data Processing and Extraction for Sellers in Marketplace (using Python)](https://github.com/atzbencam/Projects/blob/master/eBay_proj.pdf)
+[ebay Data Processing and Extraction for Sellers in Marketplace (using Python)](https://github.com/atzbencam/Projects/blob/master/eBay_proj.pdf)
 
 
 
-[_Twitter Sentiment Analysis of recent tragic events (using Python)_]
+[Twitter Sentiment Analysis of recent tragic events (using Python)_]
 
 
 
-[_Nationwide Grade Fluctuation due to Revenue Increases (using Tableau)_]
+[Nationwide Grade Fluctuation due to Revenue Increases (using Tableau)_]
 
 
 
-[_Airbnb Sentiment Analysis along with Machine Learning Models (using Python)_](https://github.com/atzbencam/Projects/blob/master/airbnb_proj_git.pdf)
+[Airbnb Sentiment Analysis along with Machine Learning Models (using Python)_](https://github.com/atzbencam/Projects/blob/master/airbnb_proj_git.pdf)
 
-[_Airbnb Sentiment Analysis Powerpoint (quick description)_](https://github.com/atzbencam/Projects/blob/master/airbnb_pp.pptx)
+[Airbnb Sentiment Analysis Powerpoint (quick description)_](https://github.com/atzbencam/Projects/blob/master/airbnb_pp.pptx)
 
 
 
-[_Movie Ratings and Budget Fluctuations (using R)_]
+[Movie Ratings and Budget Fluctuations (using R)_]
 
 
