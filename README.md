@@ -1,18 +1,108 @@
 ## Atzael Ben Campos
 
-Education --
+                                                  **Education**
 
-#### Masters of Science in Data Science at Drexel University - Anticipated Graduation - March 2020
+#### Masters of Science in Data Science at Drexel University - GPA -3.88 - Anticipated Graduation - March 2020
 
 Drexel University has taught me a wealth of knowledge that I plan to use in a tactical manner for engagement of data.
 
-Relevant Courses:
+As a future Data Scientist, I enjoy working with data that can be conveyed in different shapes, forms, and statistical views. 
 
 
+##### Relevant Courses:
+
+Programming Foundations
+Data Mining
+Database Management Systems
+Healthcare Informatics
+Acquisition and Preprocessing
+Analysis and Interpretation
+Information Visualization
 
 
+#### Bachelors of Business Administration in Management Information Systems and Data Analytics - Graduated December 2017
+
+TAMIU formed my love for information technology and how data can be extracted from all types of avenues in business.
+
+As an MIS major I am the bridge of IT technology know-how with business minded aspects. 
 
 
+##### Relevant Courses in Undergrad:
+
+Business Data Visualization
+Database Design Implementation
+Data Mining and Business Intelligence
+Introduction to Programming
+Information Systems Analysis
+Management Information Systems
+Business Statistics with Computer Applications
+
+
+## Projects
+
+There are several projects described below that I have worked on individually and as part of a classroom project.
+
+Feel free to analyze and interpret my projects and conclusions. Also if you have any descriptive thoughts about what I did within my code look through my readme's attached to respective projects.
+
+
+_eEbay webscraping for user (using Python)_ 
+
+-read me attached: (readme)
+
+Description of Project
+-
+-
+-
+-
+-
+-
+-
+
+_Twitter Sentiment Analysis of recent tragic events (using Python)_
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+_Nationwide Grade Fluctuation due to Revenue Increases (using Tableau)_
+
+-
+-
+-
+-
+-
+-
+-
+-
+
+_Airbnb Sentiment Analysis along with Machine Learning Models (using Python)_
+
+-
+-
+-
+--
+-
+-
+-
+-
+-
+
+-Movie Ratings and Budget Fluctuations (using R)_
+
+-
+-
+-
+-
+-
+-
+-
+-
 
 
 You can use the [editor on GitHub](https://github.com/atzbencam/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
