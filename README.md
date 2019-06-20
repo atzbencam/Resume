@@ -54,11 +54,11 @@ There are several projects described below that I have worked on individually an
 Feel free to analyze and interpret my projects and conclusions.
 
 
-_[eBay Data Processing and Extraction for Sellers in Marketplace (using Python)]_(https://github.com/atzbencam/Projects/blob/master/eBay_proj.pdf)
+_[eBay Data Processing and Extraction for Sellers in Marketplace (using Python)](https://github.com/atzbencam/Projects/blob/master/eBay_proj.pdf)
 
 
 
-_[Twitter Sentiment Analysis of recent tragic events (using Python)]_
+_[Twitter Sentiment Analysis of recent tragic events (using Python)]
 
 
 
