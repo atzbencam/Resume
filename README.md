@@ -75,3 +75,9 @@ Feel free to analyze and interpret my projects and conclusions.
 [Movie Ratings and Budget Fluctuations (using R)]
 
 
+### Certificates
+
+
+[_SQL & PostgreSQL for Beginners online course 7 hours from Udemy_](https://www.udemy.com/certificate/UC-S309A4FN/)
+
+[_R Programming A-Z R for Data Science With Real Excercises 10.5 hours from Udemy_](https://www.udemy.com/certificate/UC-4T3SEE1D/)
