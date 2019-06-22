@@ -67,8 +67,7 @@ Feel free to analyze and interpret my projects and conclusions.
 
 
 [_Airbnb Sentiment Analysis along with Machine Learning Models (using Python)_](https://github.com/atzbencam/Projects/blob/master/airbnb_proj_git.pdf)
-
-[_Airbnb Sentiment Analysis Powerpoint (quick description)_](https://github.com/atzbencam/Projects/blob/master/airbnb_pp.pptx)
+|[_Airbnb Sentiment Analysis Powerpoint (quick description)_](https://github.com/atzbencam/Projects/blob/master/airbnb_pp.pptx)
 
 
 
