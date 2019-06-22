@@ -58,7 +58,7 @@ Feel free to analyze and interpret my projects and conclusions.
 
 
 
-[Twitter Sentiment Analysis of recent tragic events (using Python)]
+[Twitter API Retrieval System for Sentimental Analysis on Current Events (using Python)](https://github.com/atzbencam/Projects/blob/master/Twitter%20API%20Retrieval%20System%20for%20Sentimental%20Analysis%20on%20Current%20Events.pdf)
 
 
 
