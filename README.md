@@ -57,6 +57,8 @@ Feel free to analyze and interpret my projects and conclusions.
 [_eBay Data Processing and Extraction for Sellers in Marketplace (using Python)_](https://github.com/atzbencam/Projects/blob/master/eBay_proj.pdf)
 
 
+[_Crime Rate Analysis in New York (using Tableau)_](https://github.com/atzbencam/Projects/blob/master/Crime%20Rate%20Analysis%20in%20NY.pdf)
+
 
 [Twitter API Retrieval System for Sentimental Analysis on Current Events (using Python)](https://github.com/atzbencam/Projects/blob/master/Twitter%20API%20Retrieval%20System%20for%20Sentimental%20Analysis%20on%20Current%20Events.pdf)
 
