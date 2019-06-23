@@ -64,7 +64,7 @@ Feel free to analyze and interpret my projects and conclusions.
 
 
 
-[_Analysis of Academic Achievement Fluctuation Due to Revenue in School Districts within the United States (using Tableau)_]
+[_Analysis of Academic Achievement Fluctuation Due to Revenue in School Districts within the United States (using Tableau)_](https://github.com/atzbencam/Projects/blob/master/academic_fluctuation_proj.pdf)
 
 
 
