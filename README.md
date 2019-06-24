@@ -74,7 +74,7 @@ Feel free to analyze and interpret my projects and conclusions.
 
 
 
-[Movie Ratings and Budget Fluctuations (using R)]
+[_Movie Ratings and Budget Fluctuations (using R)_](https://github.com/atzbencam/Projects/blob/master/Movie_analysis_usingR.pdf)
 
 
 ### Certificates
