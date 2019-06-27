@@ -82,4 +82,33 @@ Feel free to analyze and interpret my projects and conclusions.
 
 [_SQL & PostgreSQL for Beginners online course 7 hours from Udemy_](https://www.udemy.com/certificate/UC-S309A4FN/)
 
+Description:
+  
+  - create relational database from scratch
+  - create, alter and delete tables from database
+  - insert, update and delete data from a table
+  - retrieve data from a database using select queries
+  - filter data using where clauses and logical operators
+  - order and limit data retrieved from a table
+  - use aggregate functions and group data to gain more meaningful insights from a database
+  - relate tables together using database relationships
+  - use SQL join queries to retrieve data from multiple tables in a single query
+
+
+
 [_R Programming A-Z R for Data Science With Real Excercises 10.5 hours from Udemy_](https://www.udemy.com/certificate/UC-4T3SEE1D/)
+
+Description:
+  
+  - learned R Studio, and customization of interface
+  - create vectors
+  - create variables
+  - create while() loop and for() loop in R
+  - build and use matrices
+  - install packages
+  - practice working with statistical data
+  - practice working with financial data
+  - practice working with sports data
+  
+  
+  
