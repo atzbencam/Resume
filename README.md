@@ -5,7 +5,7 @@
 ### Education
 
 #### Masters of Science in Data Science at Drexel University
-##### Anticipated Graduation - March 2020
+##### Graduated - March 2020
 
 Drexel University has taught me a wealth of knowledge that I plan to use in a tactical manner for engagement of data.
 
@@ -21,6 +21,11 @@ As a future Data Scientist, I enjoy working with data that can be conveyed in di
 - Acquisition and Preprocessing
 - Analysis and Interpretation
 - Information Visualization
+- Advanced Programming Techniques
+- Human-Computer Interaction
+- Information Assurance
+- Machine Learning
+- Data Science Capstone I & II
 
 
 #### Bachelors of Business Administration in Management Information Systems and Data Analytics at Texas A&M International University
@@ -75,6 +80,11 @@ Feel free to analyze and interpret my projects and conclusions.
 
 
 [_Movie Ratings and Budget Fluctuations (using R)_](https://github.com/atzbencam/Projects/blob/master/Movie_analysis_usingR.pdf)
+
+[ Aircraft Fault Detection through ML-based classification (using Python & Matlab) ]
+- Code (https://github.com/BAmercury/cs613-aircraft/blob/fft_brian_analysis/fft-code/fft_data_v4.ipynb)
+- Report (https://github.com/atzbencam/Projects/blob/master/CS613_Final_Project_Final_Draft.pdf)
+- Powerpoint (https://github.com/atzbencam/Projects/blob/master/CS613_Aircraft_Simulation_Project_Final_Draft.pptx)
 
 
 ### Certificates
