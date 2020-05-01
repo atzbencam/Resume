@@ -83,9 +83,9 @@ Feel free to analyze and interpret my projects and conclusions.
 
 
 [_Aircraft Fault Detection through ML-based classification (using Python & Matlab)_]
-- Code (https://github.com/BAmercury/cs613-aircraft/blob/fft_brian_analysis/fft-code/fft_data_v4.ipynb)
-- Report (https://github.com/atzbencam/Projects/blob/master/CS613_Final_Project_Final_Draft.pdf)
-- Powerpoint (https://github.com/atzbencam/Projects/blob/master/CS613_Aircraft_Simulation_Project_Final_Draft.pptx)
+(https://github.com/BAmercury/cs613-aircraft/blob/fft_brian_analysis/fft-code/fft_data_v4.ipynb)
+(https://github.com/atzbencam/Projects/blob/master/CS613_Final_Project_Final_Draft.pdf)
+(https://github.com/atzbencam/Projects/blob/master/CS613_Aircraft_Simulation_Project_Final_Draft.pptx)
 
 
 ### Certificates
