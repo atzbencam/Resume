@@ -121,4 +121,19 @@ Description:
   - practice working with sports data
   
   
+  [_Microsoft SQL for Beginners 4 hours from Udemy_](https://www.udemy.com/certificate/UC-d764c34d-9051-44af-8101-ba6caceaa9f2/)
+
+Description:
+  
+  - Complete literal SELECT statements.
+  - Complete basic SELECT statements querying against a single table
+  - Filter data using the WHERE clause
+  - Sort data using the ORDER BY clause
+  - Learn about database design and normalization
+  - Using joins, return columns from multiple tables in the same query
+  - Understand the difference between the INNER JOIN, LEFT/RIGHT OUTER JOIN, and FULL OUTER JOIN
+  - Complete SQL statements that use aggregate functions
+  - Group data together using the GROUP BY clause
+  - Filter groups of data using the HAVING clause
+  
   
