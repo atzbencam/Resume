@@ -5,7 +5,7 @@
 ### Education
 
 #### Masters of Science in Data Science at Drexel University
-##### Graduated - March 2020
+##### Graduated March 2020
 
 Drexel University has taught me a wealth of knowledge that I plan to use in a tactical manner for engagement of data.
 
