@@ -52,6 +52,15 @@ As an MIS major I am the bridge of IT technology know-how with business minded a
 Python, R, SQL, Postgres, Tableau, Weka, SAS Enterprise Miner, Java
 
 
+### Experience
+
+# - Inventory Analyst Intern at De Nuevo Apparel Clothing Company - Laredo, Texas (06/2020 - Present)
+
+# - IT Intern at Ascending Technologies - Laredo, Texas (06/2020 - Present)
+
+
+
+
 ### Projects
 
 There are several projects described below that I have worked on individually and within a group.
@@ -85,6 +94,10 @@ Feel free to analyze and interpret my projects and conclusions.
 [_Aircraft Fault Detection through ML-based classification (using Python & Matlab)_](https://github.com/atzbencam/Projects/blob/master/CS613_Final_Project_Final_Draft.pdf)
   [ Aircraft Simulation Powerpoint ](https://github.com/atzbencam/Projects/blob/master/CS613_Aircraft_Simulation_Project_Final_Draft.pptx)
   [ Aircraft Simulation Code ](https://github.com/BAmercury/cs613-aircraft/blob/fft_brian_analysis/fft-code/fft_data_v4.ipynb)
+  
+  
+[_De Nuevo Apparel Analytics and Documentation_]
+(https://github.com/atzbencam/Projects/blob/master/Movie_analysis_usingR.pdf)
 
 
 ### Certificates
