@@ -55,10 +55,15 @@ Python, R, SQL, Postgres, Tableau, Weka, SAS Enterprise Miner, Java
 ### Experience
 
 #### Inventory Analyst Intern at De Nuevo Apparel Clothing Company - Laredo, Texas (06/2020 - Present)
+    - Deployed and Manage Scan- IT application for ease of inventory acquisition
+    - Weekly count and input of clothes into csv spreadsheet
+    - Constantly updating methods for improvement of data management
+    - Intuitive graphs reported montly for end of month analytics
 
 #### IT Intern at Ascending Technologies - Laredo, Texas (06/2020 - Present)
-
-
+    - Computer repair and maintenance on Windows machines
+    - Troubleshoot Outlook servers
+    - Installation of switch and servers
 
 
 ### Projects
