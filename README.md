@@ -60,11 +60,6 @@ Python, R, SQL, Postgres, Tableau, Weka, SAS Enterprise Miner, Java
     - Constantly updating methods for improvement of data management
     - Intuitive graphs reported montly for end of month analytics using Python Notebook
 
-#### IT Intern at Ascending Technologies - Laredo, Texas (06/2020 - Present)
-    - Computer repair and maintenance on Windows machines
-    - Troubleshoot Outlook servers
-    - Installation of switch and servers
-
 
 ### Projects
 
@@ -100,9 +95,6 @@ Feel free to analyze and interpret my projects and conclusions.
   [ Aircraft Simulation Powerpoint ](https://github.com/atzbencam/Projects/blob/master/CS613_Aircraft_Simulation_Project_Final_Draft.pptx)
   [ Aircraft Simulation Code ](https://github.com/BAmercury/cs613-aircraft/blob/fft_brian_analysis/fft-code/fft_data_v4.ipynb)
   
-  
-[_De Nuevo Apparel Analytics and Documentation_]
-(https://github.com/atzbencam/Projects/blob/master/Movie_analysis_usingR.pdf)
 
 
 ### Certificates
