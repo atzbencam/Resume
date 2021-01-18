@@ -138,3 +138,23 @@ Description:
   - Filter groups of data using the HAVING clause
   
   
+  [_Github Ultimate: Master Git and Github - Beginner to Expert_](https://www.udemy.com/certificate/UC-b26d7e73-2c24-4ae6-8c6a-832499073747/)
+
+Description:
+  
+  - Learn the key concepts of the Git source control system
+  - Step through the entire Git workflow
+  - Compare the different states in Git
+  - Manage files inside and outside the control of Git and GitHub
+  - Create and manage repositories on GitHub
+  - Create branches and resolve conflicts with confidence
+  - Save work in progress with Stashes
+  - Mark special events with Tags and Releases
+  - Time travel within Git repositories and on GitHub
+  - Perform many of the same local Git operations directly on GitHub
+  - Join other GitHub projects by Forking and contribute back using Pull Requests
+  - Review and Accept Pull Requests from others
+  - Share code with Gists
+  - Manage project defects or enhancement requests with GitHub Issues
+  
+  
