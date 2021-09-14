@@ -2,6 +2,15 @@
 
 ### Atzael Ben Campos
 
+### Job Experience
+
+### Chewy - Supply Chain Assistant 06/21 - 09/21
+
+1. Evaluated budget and executed purchase orders with vendors
+2. Created weekly/monthly status reports on containers and inventory (OOS).
+3. Created Python automation code to expedite daily excel tasks.
+
+
 ### Education
 
 #### Masters of Science in Data Science at Drexel University
