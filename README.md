@@ -4,6 +4,20 @@
 
 ### Job Experience
 
+### Children's Hospital of Philadelphia - Information Analyst 04/22 - Present
+1. manipulate, extract, and deliver data to internal departments
+2. communicate clearly with requestors to identify what data is needed
+3. high attention to detail with requests and delivering sensitive data
+4. work with collaborative data through GitHub and upload work/scripts to GitHub 
+
+
+### Cobbs Creek Healthcare - Junior Data Analyst 02/22 - 04/22
+1. Utilized SQL to retrieve data from Data Bricks for clients ad-hoc requests
+2. Develop and maintain Market Access Payer Dashboard
+   a. Conveyed how many people were on the drug/stopped taking drug/and claim status - i.e approved/rejected/reversed
+   b. Streamlined an excel workbook with sum-ifs equations so that data can be updated in       dashboard.
+
+
 ### Chewy - Supply Chain Assistant 06/21 - 09/21
 
 1. Evaluated budget and executed purchase orders with vendors
