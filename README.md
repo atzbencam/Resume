@@ -15,6 +15,7 @@
 1. Utilized SQL to retrieve data from Data Bricks for clients ad-hoc requests
 2. Develop and maintain Market Access Payer Dashboard
    a. Conveyed how many people were on the drug/stopped taking drug/and claim status - i.e approved/rejected/reversed
+   
    b. Streamlined an excel workbook with sum-ifs equations so that data can be updated in       dashboard.
 
 
